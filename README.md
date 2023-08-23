@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lourde Mary</h1>
-<h3 align="center">A passionate data viz developer</h3>
+<h3 align="center">A Passionate DATA VIZ DEV</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datanomad7&label=Profile%20views&color=0e75b6&style=flat" alt="datanomad7" /> </p>
 
