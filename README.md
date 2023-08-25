@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm Lourde Mary</h1>
-<h3 align="center">A Passionate DATA VIZ DEV</h3>
+# Hi, I'm Lourde Mary 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datanomad7&label=Profile%20views&color=0e75b6&style=flat" alt="datanomad7" /> </p>
+I'm a passionate Data Analyst with Power BI expertise and a Microsoft Certified Power BI Data Analyst. I love transforming raw data into meaningful insights and visualizations. Welcome to my GitHub profile!
 
-- 📫 How to reach me **lourdemary1@outlook.com**
+## 🔍 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 💼 Currently working as a Data Analyst at [SmartKatch](https://smartkatch.ai/).
+- 📊 Develop insightful Power BI dashboards and reports.
+- 📉 Analyze data to identify trends, patterns, and opportunities.
+- 🧠 Transform complex data into meaningful visualizations.
+- 📈 Provide data-driven recommendations to drive business growth.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🛠️ Tools & Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datanomad7&show_icons=true&locale=en&layout=compact" alt="datanomad7" /></p>
+- 💡 Microsoft Power BI
+- 📊 Data Visualization
+- 📈 Data Analysis
+- 📉 SQL
+- 📊 DAX (Data Analysis Expressions)
+- 📈 Excel
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datanomad7&show_icons=true&locale=en" alt="datanomad7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datanomad7&" alt="datanomad7" /></p>
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/lourdemary/
+- Outlook: lourdemary1@outlook.com
+
+## 📚 I'm Currently Learning
+
+- Advanced DAX techniques for complex calculations.
+- Best practices for designing effective dashboards.
+  
+## 🌟 Fun Fact
+I enjoy visualizing data as much as I enjoy analyzing it! 📊📈
+
+
+Feel free to reach out for collaboration, data discussions, or just to say hi! 🚀
+
+
+
+
+
+
+
+
