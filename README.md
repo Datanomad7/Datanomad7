@@ -18,12 +18,14 @@ I'm a passionate Data Analyst with Power BI expertise and a Microsoft Certified 
 - 📉 SQL
 - 📊 DAX (Data Analysis Expressions)
 - 📈 Excel
+- 📉 Alteryx
 
 
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/lourdemary/
 - Outlook: lourdemary1@outlook.com
+- Kaggle: https://www.kaggle.com/lourdemary
 
 ## 📚 I'm Currently Learning
 
